@@ -17,11 +17,14 @@ namespace novaConta
 
 
 		string _nome = "";
-		public Form2( string nome)
+		string _email = "";
+		public Form2(string nome, string email)
 		{
 			_nome = nome;
+			_email = email;
 			InitializeComponent();
 			textBox1.Text = _nome;	
+			textBox2.Text = _email;
 		}
 
 		private void Form2_Load(object sender, EventArgs e)

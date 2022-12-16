@@ -46,7 +46,7 @@ namespace novaConta
 			{
 
 				MessageBox.Show("Conta criada com sucesso.");
-				Form2 cadInfo = new Form2(tb1.Text);
+				Form2 cadInfo = new Form2(tb1.Text,tb2.Text);
 				cadInfo.Show();
 			}
 		}
