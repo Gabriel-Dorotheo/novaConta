@@ -1,0 +1,12 @@
+C:\Users\jesley.gdoliveira\source\repos\novaConta\bin\Debug\novaConta.exe.config
+C:\Users\jesley.gdoliveira\source\repos\novaConta\bin\Debug\novaConta.exe
+C:\Users\jesley.gdoliveira\source\repos\novaConta\bin\Debug\novaConta.pdb
+C:\Users\jesley.gdoliveira\source\repos\novaConta\obj\Debug\novaConta.csproj.AssemblyReference.cache
+C:\Users\jesley.gdoliveira\source\repos\novaConta\obj\Debug\novaConta.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesley.gdoliveira\source\repos\novaConta\obj\Debug\novaConta.Form1.resources
+C:\Users\jesley.gdoliveira\source\repos\novaConta\obj\Debug\novaConta.Properties.Resources.resources
+C:\Users\jesley.gdoliveira\source\repos\novaConta\obj\Debug\novaConta.csproj.GenerateResource.cache
+C:\Users\jesley.gdoliveira\source\repos\novaConta\obj\Debug\novaConta.csproj.CoreCompileInputs.cache
+C:\Users\jesley.gdoliveira\source\repos\novaConta\obj\Debug\novaConta.exe
+C:\Users\jesley.gdoliveira\source\repos\novaConta\obj\Debug\novaConta.pdb
+C:\Users\jesley.gdoliveira\source\repos\novaConta\obj\Debug\novaConta.Form2.resources
